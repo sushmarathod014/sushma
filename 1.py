@@ -1,1 +1,0 @@
-this is AIML lab
